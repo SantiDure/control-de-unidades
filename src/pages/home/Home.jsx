@@ -1,6 +1,8 @@
+import VehicleCard from "../../components/vehicleCard/vehicleCard"
+
 function Home(){
     return <>
-    <h1>home</h1>
+    <VehicleCard/>
     </>
     }
     
